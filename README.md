@@ -42,6 +42,7 @@ const firebaseConfig = {
 # Contact : 😁
 - ## [Instagram](https://www.instagram.com/anujcodeop/)
 - ## [Linkedin](https://www.linkedin.com/in/anuj-singh-007/)
+- ## [Instagram](https://www.instagram.com/satyam.1908/)
 
 ## ScreenShots : 😊😊😊
 
